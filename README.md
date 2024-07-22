@@ -1,1 +1,1 @@
-# lunch-menu
+# KDN 점심메뉴 선정기 v0.1
